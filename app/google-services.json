@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140046860145",
+    "firebase_url": "https://mymusic-99338.firebaseio.com",
+    "project_id": "mymusic-99338",
+    "storage_bucket": "mymusic-99338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140046860145:android:303344145a570bd45a80d0",
+        "android_client_info": {
+          "package_name": "com.papasong.myplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140046860145-f0o58h873ogfht6ut78d1a7clnhk3u73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.papasong.myplay",
+            "certificate_hash": "70ffb31064639f68912aa1d1121561abce482e01"
+          }
+        },
+        {
+          "client_id": "140046860145-9cvij58qfjdmcmg3s5uuli3b3ubjuq0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvZfB1MbOKXiwBzpmH9Vz1UDnk0BHVWpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140046860145-9cvij58qfjdmcmg3s5uuli3b3ubjuq0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
